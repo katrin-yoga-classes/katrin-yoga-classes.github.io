@@ -17,11 +17,11 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
-baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+title: "Katrin Yoga Classes"
+description: "Explore the harmony of body, mind, and soul with Raja Yoga practices."
+baseurl: "/so-simple-theme" # the subpath of your site, e.g. "/blog"
+url: "https://katrin-yoga-classes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+logo: "/assets/images/Yoga_om.png" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -90,10 +90,10 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
+author: Katrin
+  name: Katrin
   picture:
-  email:
+  email: katrin.yoga.classes@gmail.com
   twitter:
   links:
     - title:
