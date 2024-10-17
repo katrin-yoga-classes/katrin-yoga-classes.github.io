@@ -1,6 +1,6 @@
 ---
 title: 'Basic Training'
-image: /assets/images/Yoga_om.png
+order: 2
 ---
 
 Basic Training comprises 40 lessons with the following topics: 
