@@ -83,10 +83,7 @@ collections:
   courses:
     output: true
     permalink: /:collection/:path/
-    order: 
-      - kids-yoga.md
-      - basic-training.md
-      - teacher-training.md
+    sort_by: order
 
 # Front Matter Defaults
 defaults:
