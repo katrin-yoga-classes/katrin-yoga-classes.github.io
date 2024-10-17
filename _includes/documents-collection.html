@@ -1,3 +1,5 @@
+<!-- https://talk.jekyllrb.com/t/collections-dont-order-properly-on-github-pages/4652/2 -->
+<!-- I could not get it to work via the sort_by variable in _config.yml, so always sort by order -->
 {% assign entries = site[include.collection] | sort: "order" %}
 
 {% if include.sort_by == 'title' %}
@@ -12,12 +14,6 @@
   {% else %}
     {% assign entries = entries | sort: 'date' %}
   {% endif %}
-{% elsif include.sort_by == 'order' %}
-  {% if include.sort_order == 'reverse' %}
-    {% assign entries = entries | sort: 'order' | reverse %}
-  {% else %}
-    {% assign entries = entries | sort: 'order' %}
-{% endif %}{% endif %}
 
 {%- for entry in entries -%}
   {% include entry.html %}
