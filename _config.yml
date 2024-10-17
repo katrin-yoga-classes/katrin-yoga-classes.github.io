@@ -93,6 +93,13 @@ defaults:
     values:
       layout: post
       share: true
+  # Courses defaults
+  - scope:
+      path: "_courses"
+      type: courses
+    values:
+      layout: post
+      share: true
 
 # Site Author
 author: 
