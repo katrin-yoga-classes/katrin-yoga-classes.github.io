@@ -1,4 +1,4 @@
 ---
-title: 'Basic Training'
+title: 'Teacher Training'
 order: 3
 ---

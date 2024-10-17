@@ -1,4 +1,4 @@
 ---
-title: 'Basic Training'
+title: 'Kids Yoga'
 order: 1
 ---
