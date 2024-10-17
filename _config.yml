@@ -92,13 +92,13 @@ defaults:
 # Site Author
 author: Katrin
   name: ktrns
-  picture:
-  email: katrin.yoga.classes@gmail.com
-  twitter:
-  links:
-    - title:
-      url:
-      icon:
+  email: "katrin.yoga.classes@gmail.com"
+  # picture:
+  # twitter:
+  # links:
+  #   - title:
+  #     url:
+  #     icon:
 
 # Footer Links
 footer_links:
