@@ -1,4 +1,5 @@
 ---
 title: 'Kids Yoga'
-sort_order: 1
+order: 1
+sort_by: order
 ---

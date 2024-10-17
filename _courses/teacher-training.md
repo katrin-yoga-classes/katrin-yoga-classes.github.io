@@ -1,4 +1,5 @@
 ---
 title: 'Teacher Training'
-sort_order: 3
+order: 3
+sort_by: order
 ---
