@@ -18,7 +18,7 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Katrin Yoga Classes"
 description: "Explore the harmony of body, mind, and soul with Raja Yoga practices."
-baseurl: "" # the subpath of your site, e.g. "/blog"
+baseurl: "" # the subpath of your site, e.g. "/blog" 
 url: "https://katrin-yoga-classes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/assets/images/Yoga_om.png" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
