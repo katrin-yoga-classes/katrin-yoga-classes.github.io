@@ -1,6 +1,6 @@
 ---
 title: 'Basic Training'
-order: 2
+sort_order: 2
 ---
 
 Basic Training comprises 40 lessons with the following topics: 
