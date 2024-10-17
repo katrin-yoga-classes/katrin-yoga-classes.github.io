@@ -90,8 +90,8 @@ defaults:
       share: true
 
 # Site Author
-author: Katrin
-  name: "ktrns"
+author: 
+  name: "Katrin"
   email: "katrin.yoga.classes@gmail.com"
   # picture:
   # twitter:
