@@ -83,7 +83,7 @@ collections:
   courses:
     output: true
     permalink: /:collection/:path/
-    sort_by: order
+    sort_by: "order"
 
 # Front Matter Defaults
 defaults:
