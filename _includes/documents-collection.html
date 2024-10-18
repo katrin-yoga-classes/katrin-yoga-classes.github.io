@@ -14,6 +14,7 @@
   {% else %}
     {% assign entries = entries | sort: 'date' %}
   {% endif %}
+{% endif %}
 
 {%- for entry in entries -%}
   {% include entry.html %}
