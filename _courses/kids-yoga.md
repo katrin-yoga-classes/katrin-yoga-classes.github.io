@@ -3,8 +3,25 @@ title: 'Kinderyoga'
 order: 1
 ---
 
-Kinderyoga bringt viele unerwartete, lustige und wunderschöne Momente mit sich.
+Kinderyoga bringt viele unerwartete, lustige und wunderschöne Momente mit sich. Immer mit dabei ist Rosi - sie ist flexibel und kann Übungen vorzeigen. 
 
-In meinen Kinderyoga-Stunden ist auch immer "Rosi" dabei. Sie ist sehr flexibel und kann viele Übungen vormachen.
+In meinen Stunden kombiniere ich: 
 
-Beim Kinderyoga kombiniere ich Geschichten mit Asanas (Körperübungen), kleinen Visualisierungen, Gedankenreisen und Spielen. Jede Stunde widmet sich einem Chakra oder einem Element, wodurch sie abwechslungsreich und immer einzigartig ist. Manchmal liegt der Fokus auf Erdung, manchmal auf Beweglichkeit, dem inneren Feuer oder der Herzöffnung.
+- Kleine Geschichten um yogische Werte zu thematisieren (Yamas und Niyamas)
+- Körperhaltungen (Asanas)
+- Konzentrations- und Meditationsübungen (Dharana und Dhyana)
+- und natürlich Spiele. 
+
+Jede Stunde hat ein eigenes Thema. Dabei durchlaufen wir zyklisch die Energiezentren des Körpers, und ich vermittle den Kindern nach und nach yogisches Wissen. Mal geht es um Erdung und Selbstvertrauen, mal geht es um Beweglichkeit und Kreativität. Mal geht es um Kraft und das innere Feuer, mal um Herzöffnung und Vertrauen. Mal geht es um Gleichgewicht und Mut zum Reden, und letztlich immer auch darum, die eigenen Gedanken zur Ruhe zu bringen.
+
+Ich kann es (Erde).
+Ich bin kreativ (Wasser).
+Ich rufe mich zurück (Feuer).
+Ich vertraue (Luft).
+Ich traue mich zu reden (Äther).
+Ich bin. 
+
+Ich finde es wundervoll, Kindern diese Übungen mit auf den Weg geben zu können. Stellt euch vor, wir hätten schon als Kinder von yogischen Werten und Meditation gehört. 
+
+Alles Liebe, 
+Katrin 
