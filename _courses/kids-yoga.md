@@ -18,7 +18,7 @@ Jede Stunde hat ein eigenes Thema. Dabei durchlaufen wir zyklisch die Energiezen
 
 Ich kann es (Erde).  
 Ich bin kreativ (Wasser).  
-Ich rufe mich zurück (Feuer). 
+Ich rufe mich zurück (Feuer).  
 Ich vertraue (Luft).  
 Ich traue mich zu reden (Äther).  
 Ich bin.   
