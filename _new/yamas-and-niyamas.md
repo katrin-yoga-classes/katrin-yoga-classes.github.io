@@ -1,0 +1,11 @@
+# Ahimsa - Gewaltlosheit
+- Wörtlich: Keinen Schaden anrichten
+- Fundament all unserer Errungenschaften, Erfolge und Freuden
+- Anderen physische Gewalt zufügen
+- Unsere Fähigkeit uns anderen Menschen gegenüber gewaltfrei zu verhalten, hängt direkt mit der Gewaltlosigkeit uns selbst gegenüber zusammen
+- Wir müssen lernen unseren Alltag zu bewältigen und uns mit den Situationen auseinandersetzen, die Gewalttätigkeit in uns wecken
+- Angst erzeugt Gewalt
+- Zunächst eigenen Mut finden: Mut ist nicht das Fehlen von Angst, sondern die Fähigkeit sich von der Angst nicht lämen zu lassen
+- Gleichgewicht schaffen: Zeit zum Atmen und nicht der volle Terminkalender
+- Umgang mit Machtlosigkeit: wenn wir das Gefühl haben einer Situation nicht gewachsen zu sein und keinen Ausweg zu haben; dankbar sein, auf den Augenblick vertrauen, an andere Menschen denken
+- 
